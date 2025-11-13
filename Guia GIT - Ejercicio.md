@@ -32,7 +32,7 @@ git add .
 5) Subiremos el primer commit 
 
 ```bash
-git commit -am"Proyecto incial Java"
+git commit -am "Proyecto incial Java"
 ```
 
 4) Agregamos el origen
@@ -483,6 +483,7 @@ git add .
 git commit-am "Agregando menu de canciones y llamando las funciones"
 git push
 ```
+
 
 
 18) Por ultimo va a copiar la url de su repositorio publico de git y la va a subir en un archivo word, y este lo va a subir en la entrega del taller.
